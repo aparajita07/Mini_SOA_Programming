@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="11" sourcefiles="src/Consumer.java,src/Provider.java,src/Orchestrator.java" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="file:/C:/Users/apatri/eclipse-workspace/test-appy/doc/"/>
+        </javadoc>
+    </target>
+</project>
